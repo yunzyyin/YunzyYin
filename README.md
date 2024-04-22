@@ -1,4 +1,4 @@
-Hey, I’m Yunsy! Welcome to my page👋
+Hey, I’m Yunzy! Welcome to my page👋
 
 <!---
 YunsyYin/YunsyYin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
